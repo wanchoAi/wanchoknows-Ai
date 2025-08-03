@@ -1,0 +1,20 @@
+wanchoknows-ai/
+├── frontend/
+│   ├── package.json
+│   ├── tailwind.config.js
+│   ├── postcss.config.js
+│   ├── vite.config.js
+│   ├── src/
+│   │   ├── main.jsx
+│   │   ├── App.jsx
+│   │   ├── components/
+│   │   │   ├── ChatCanvas.jsx
+│   │   │   ├── TeamSelection.jsx
+│   │   │   ├── MemoryToggle.jsx
+│   │   │   └── AlertBox.jsx
+│   └── index.html
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── .env.example
+└── README.md
